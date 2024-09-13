@@ -25,6 +25,7 @@ a {
     text-decoration: none;
     border: 1px solid;
     border-color: #0077ff;
+    border-radius: 25px;
     padding: 10px 30px;
 }
 a:hover {
@@ -74,8 +75,8 @@ th {
 }
 
 th:nth-child(1) {
-    color: #000;
-    background-color: #F2F2F2;
+    color: #ffffff;
+    background-color: #ffffff;
 }
 
 th:nth-child(2) {
