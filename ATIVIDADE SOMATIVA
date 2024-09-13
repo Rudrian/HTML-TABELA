@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formativa</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body>
+    <table>
+        <th>PLANOS DISPONIVEIS</th>
+        <th>BASICO</th>
+        <th>PADRAO</th>
+        <th>AVANÇADO</th>
+        <tr>
+            <td class="primeira">Preço Mensal</td>
+            <td class="one-column"><b>$29</b></td>
+            <td class="one-column"><b>$59</b> </td>
+            <td class="one-column"><b>$139</b></td>
+        </tr>
+        <tr>
+            <td class="primeira">Comercial</td>
+            <td>1 usuario completo</td>
+            <td class="central">5 usuarios completos</td>
+            <td>Usuarios personalizados</td>
+        </tr>
+        <tr>
+            <td class="primeira">Usuarios limitados somente leitura</td>
+            <td>1.000 visualizações de e-mail</td>
+            <td class="central">2.000 visualizações de e-mail</td>
+            <td>Visualização de e-mail personalizados</td>
+        </tr>
+        <tr>
+            <td class="primeira">Contatos</td>
+            <td>5 contatos por cliente</td>
+            <td class="central">25 contatos por cliente</td>
+            <td>Contatos ilimitados</td>
+        </tr>
+        <tr>
+            <td class="primeira">Café</td>
+            <td>5 xicaras</td>
+            <td class="central">8 xicaras</td>
+            <td>10 xiracas</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="esquerda">
+                <a href="" class="azul">ESCOLHA O PLANO</a>
+            </td>
+            <td class="central">
+                <a href="" class="red">ESCOLHA O PLANO</a>
+            </td>
+            <td class="direita">
+                <a href="" class="verde">ESCOLHA O PLANO</a>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
