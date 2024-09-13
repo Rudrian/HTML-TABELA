@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="menu">
+        <section class="logo">
+            <img src="img/logoJGT.png" alt="logo">
+        </section>
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="loja.html">Loja</a></li>
+            <li><a href="blog.html">Canais</a></li>
+            <li><a href="categorias.html">Categorias</a></li>
+            <li><a href="sobrenos.html">Sobre</a></li>
+        </ul>
+    </nav>
+
+    <section class="tab">  
+        <table>
+            <caption>Vendas por Período</caption>
+            <thead>
+                <tr>
+                    <th>Período</th>
+                    <th>Produtos</th>
+                    <th>Vendas</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Janeiro</td>
+                    <td>Produto A</td>
+                    <td>150</td>
+                </tr>
+                <tr>
+                    <td>Fevereiro</td>
+                    <td>Produto B</td>
+                    <td>200</td>
+                </tr>
+                <tr>
+                    <td>Março</td>
+                    <td>Produto C</td>
+                    <td>175</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</body>
+</html>
